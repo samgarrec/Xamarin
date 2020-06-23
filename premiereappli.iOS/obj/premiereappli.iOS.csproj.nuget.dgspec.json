@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/samgarrec/Projects/premiereappli/premiereappli.iOS/premiereappli.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/samgarrec/Projects/premiereappli/premiereappli.iOS/premiereappli.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samgarrec/Projects/premiereappli/premiereappli.iOS/premiereappli.iOS.csproj",
+        "projectName": "premiereappli.iOS",
+        "projectPath": "/Users/samgarrec/Projects/premiereappli/premiereappli.iOS/premiereappli.iOS.csproj",
+        "packagesPath": "/Users/samgarrec/.nuget/packages/",
+        "outputPath": "/Users/samgarrec/Projects/premiereappli/premiereappli.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/samgarrec/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/samgarrec/Projects/premiereappli/premiereappli/premiereappli.csproj": {
+                "projectPath": "/Users/samgarrec/Projects/premiereappli/premiereappli/premiereappli.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.968, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/samgarrec/Projects/premiereappli/premiereappli/premiereappli.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samgarrec/Projects/premiereappli/premiereappli/premiereappli.csproj",
+        "projectName": "premiereappli",
+        "projectPath": "/Users/samgarrec/Projects/premiereappli/premiereappli/premiereappli.csproj",
+        "packagesPath": "/Users/samgarrec/.nuget/packages/",
+        "outputPath": "/Users/samgarrec/Projects/premiereappli/premiereappli/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samgarrec/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.495, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

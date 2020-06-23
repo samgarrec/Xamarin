@@ -1,0 +1,14 @@
+/Users/samgarrec/Projects/premiereappli/premiereappli/bin/Debug/netstandard2.0/premiereappli.deps.json
+/Users/samgarrec/Projects/premiereappli/premiereappli/bin/Debug/netstandard2.0/premiereappli.dll
+/Users/samgarrec/Projects/premiereappli/premiereappli/bin/Debug/netstandard2.0/ref/premiereappli.dll
+/Users/samgarrec/Projects/premiereappli/premiereappli/bin/Debug/netstandard2.0/premiereappli.pdb
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.csprojAssemblyReference.cache
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.AssemblyInfoInputs.cache
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.AssemblyInfo.cs
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.csproj.CoreCompileInputs.cache
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.dll
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/ref/premiereappli.dll
+/Users/samgarrec/Projects/premiereappli/premiereappli/obj/Debug/netstandard2.0/premiereappli.pdb
