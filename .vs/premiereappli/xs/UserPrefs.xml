@@ -1,25 +1,30 @@
 ﻿<Properties StartupConfiguration="{907BF8D6-16AB-4658-9F2E-C312A897396B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../.nuget/packages/xamarin.essentials/1.5.3.2/readme.txt">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="premiereappli/MainPage.xaml" Line="17" Column="4" />
+      <File FileName="premiereappli/MainPage.xaml" Line="13" Column="1" />
       <File FileName="../../.nuget/packages/xamarin.essentials/1.5.3.2/readme.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="premiereappli" expanded="True" selected="True">
+          <Node name="premiereappli" expanded="True">
             <Node name="premiereappli" expanded="True" />
-            <Node name="premiereappli.Android" expanded="True" />
-            <Node name="premiereappli.iOS" expanded="True" />
+            <Node name="premiereappli.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="premiereappli.iOS" expanded="True">
+              <Node name="Assets.xcassets" selected="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.premiereappli.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.premiereappli.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.premiereappli.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.ItemProperties.premiereappli.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7FFBC22D-0097-43AC-808C-BD501A796988" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

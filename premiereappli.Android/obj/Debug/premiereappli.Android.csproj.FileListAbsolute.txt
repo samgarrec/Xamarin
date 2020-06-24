@@ -474,3 +474,8 @@
 /Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/res/drawable/favorite.png
+/Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/res/drawable/pencil.png
+/Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/res/drawable/reply.png
+/Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/res/drawable/retweet.png
+/Users/samgarrec/Projects/premiereappli/premiereappli.Android/obj/Debug/res/drawable/search.png
